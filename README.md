@@ -68,4 +68,4 @@ I am a motivated and detail-oriented **Web Developer** with a solid background i
 ---
 
 ## 📥 CV
-You can download my CV [here](./LuisCarlosMendoza_CV_WebDev_Updated.docx).
+You can download my CV [here](./RESUME - Luis Carlos Mendoza Romero.pdf).
