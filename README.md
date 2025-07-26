@@ -64,6 +64,3 @@ I am a motivated and detail-oriented **Web Developer** with a solid background i
 - English: Advanced (C1)
 
 ---
-
-## 📥 CV
-You can download my CV [here](./RESUME-LuisCarlosMendozaRomero.pdf).
