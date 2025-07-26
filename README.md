@@ -3,8 +3,6 @@
 **Frontend Web Developer | Mechatronics Engineer with Embedded Systems Experience**
 
 📍 Colima, México  
-📞 (+52) 312 300 4019  
-✉️ mendozarl07@outlook.es  
 🔗 [GitHub](https://github.com/Merleck7?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/luismendoza2007/)
 
 ---
