@@ -39,7 +39,7 @@ I am a motivated and detail-oriented **Web Developer** with a solid background i
 - **Frontend Web Development Course**  
   *Bécalos Tech Challenge – DEV.F (Oct – Dec 2024)*
 
-- **Master Frontend Web Development Course** *(Ongoing)*  
+- **Master Frontend Web Development Course** 
   *Bécalos Tech Challenge – DEV.F (Feb 2025 – Sep 2025)*
 
 - **Embedded Linux Course**  
